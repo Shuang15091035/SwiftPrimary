@@ -1,0 +1,8 @@
+use_frameworks!
+#platform:ios,'8.0'
+target ’SwiftJpym’ do
+pod “ReactiveCocoa”
+pod "SnapKit"
+pod "YYKit"
+pod "Charts"
+end

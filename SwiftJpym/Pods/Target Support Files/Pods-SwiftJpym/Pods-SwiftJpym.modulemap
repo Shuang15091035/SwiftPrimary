@@ -1,0 +1,6 @@
+framework module Pods_SwiftJpym {
+  umbrella header "Pods-SwiftJpym-umbrella.h"
+
+  export *
+  module * { export * }
+}
